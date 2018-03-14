@@ -1,0 +1,53 @@
+D:\WikiBot\WikiBot\WikiBot\bin\Bot Application.dll.config
+D:\WikiBot\WikiBot\WikiBot\bin\Bot Application.dll
+D:\WikiBot\WikiBot\WikiBot\bin\Bot Application.pdb
+D:\WikiBot\WikiBot\WikiBot\bin\Autofac.dll
+D:\WikiBot\WikiBot\WikiBot\bin\Chronic.dll
+D:\WikiBot\WikiBot\WikiBot\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\WikiBot\WikiBot\WikiBot\bin\Microsoft.Bot.Builder.dll
+D:\WikiBot\WikiBot\WikiBot\bin\Microsoft.Bot.Connector.dll
+D:\WikiBot\WikiBot\WikiBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\WikiBot\WikiBot\WikiBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\WikiBot\WikiBot\WikiBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\WikiBot\WikiBot\WikiBot\bin\Newtonsoft.Json.dll
+D:\WikiBot\WikiBot\WikiBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\WikiBot\WikiBot\WikiBot\bin\System.Net.Http.Formatting.dll
+D:\WikiBot\WikiBot\WikiBot\bin\System.Web.Http.dll
+D:\WikiBot\WikiBot\WikiBot\bin\System.Web.Http.WebHost.dll
+D:\WikiBot\WikiBot\WikiBot\bin\Autofac.xml
+D:\WikiBot\WikiBot\WikiBot\bin\Microsoft.Bot.Builder.xml
+D:\WikiBot\WikiBot\WikiBot\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\WikiBot\WikiBot\WikiBot\bin\Microsoft.Bot.Connector.xml
+D:\WikiBot\WikiBot\WikiBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\WikiBot\WikiBot\WikiBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\WikiBot\WikiBot\WikiBot\bin\Newtonsoft.Json.xml
+D:\WikiBot\WikiBot\WikiBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\WikiBot\WikiBot\WikiBot\bin\System.Net.Http.Formatting.xml
+D:\WikiBot\WikiBot\WikiBot\bin\System.Web.Http.xml
+D:\WikiBot\WikiBot\WikiBot\bin\System.Web.Http.WebHost.xml
+D:\WikiBot\WikiBot\WikiBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\WikiBot\WikiBot\WikiBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\WikiBot\WikiBot\WikiBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\WikiBot\WikiBot\WikiBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\WikiBot\WikiBot\WikiBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\WikiBot\WikiBot\WikiBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\WikiBot\WikiBot\WikiBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\WikiBot\WikiBot\WikiBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\WikiBot\WikiBot\WikiBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\WikiBot\WikiBot\WikiBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\WikiBot\WikiBot\WikiBot\obj\Debug\WikiBot.csprojResolveAssemblyReference.cache
+D:\WikiBot\WikiBot\WikiBot\obj\Debug\WikiBot.csproj.CoreCompileInputs.cache
+D:\WikiBot\WikiBot\WikiBot\obj\Debug\Bot Application.dll
+D:\WikiBot\WikiBot\WikiBot\obj\Debug\Bot Application.pdb
+D:\WikiBot\WikiBot\WikiBot\bin\Microsoft.IdentityModel.Logging.dll
+D:\WikiBot\WikiBot\WikiBot\bin\Microsoft.IdentityModel.Protocols.dll
+D:\WikiBot\WikiBot\WikiBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WikiBot\WikiBot\WikiBot\bin\Microsoft.IdentityModel.Tokens.dll
+D:\WikiBot\WikiBot\WikiBot\bin\Microsoft.IdentityModel.Logging.xml
+D:\WikiBot\WikiBot\WikiBot\bin\Microsoft.IdentityModel.Protocols.xml
+D:\WikiBot\WikiBot\WikiBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\WikiBot\WikiBot\WikiBot\bin\Microsoft.IdentityModel.Tokens.xml
+D:\WikiBot\WikiBot\WikiBot\bin\it\Microsoft.Bot.Builder.resources.dll
+D:\WikiBot\WikiBot\WikiBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+D:\WikiBot\WikiBot\WikiBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+D:\WikiBot\WikiBot\WikiBot\obj\Debug\WikiBot.csproj.CopyComplete
